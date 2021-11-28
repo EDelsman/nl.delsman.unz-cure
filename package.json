@@ -1,0 +1,14 @@
+{
+  "name": "nl.delsman.unz-cure",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^0.2.2"
+  },
+  "dependencies": {
+    "homey-zwavedriver": "^2.1.5"
+  }
+}

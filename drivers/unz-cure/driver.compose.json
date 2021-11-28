@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "UnZ-Cure"
+  },
+  "class": "other",
+  "capabilities": [
+    "onoff"
+  ],
+  "images": {
+    "small": "/drivers/unz-cure/assets/images/small.png",
+    "large": "/drivers/unz-cure/assets/images/large.png",
+    "xlarge": "/drivers/unz-cure/assets/images/xlarge.png"
+  },
+  "zwave": {
+    "manufacturerId": 1357,
+    "productTypeId": [
+      1357
+    ],
+    "productId": [
+      1357
+    ],
+    "security": ["none"]
+  }
+}
