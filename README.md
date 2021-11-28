@@ -1,4 +1,4 @@
-###Add Z-wave devices unsecure
+### Add Z-wave devices unsecure
 
 Z-wave associations are a very important. The main reason is that if Homey isn’t working for some reason, the lights can still be controlled.
 
