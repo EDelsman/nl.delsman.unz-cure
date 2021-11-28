@@ -4,13 +4,6 @@
   "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "brandColor": "#2F9C94",
-  "homeyCommunityTopicId": 55597,
-  "support": "https://community.homey.app/t/app-pro-unz-cure/55597",
-  "source": "https://github.com/EDelsman/nl.delsman.unz-cure",
-  "bugs": {
-    "url": "https://community.homey.app/t/app-pro-unz-cure/55597"
-  },
   "name": {
     "en": "UnZ-Cure"
   },
