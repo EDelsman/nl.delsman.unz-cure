@@ -4,6 +4,13 @@
   "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
+  "brandColor": "#2F9C94",
+  "homeyCommunityTopicId": 55597,
+  "support": "https://community.homey.app/t/app-pro-unz-cure/55597",
+  "source": "https://github.com/EDelsman/nl.delsman.unz-cure",
+  "bugs": {
+    "url": "https://community.homey.app/t/app-pro-unz-cure/55597"
+  },
   "name": {
     "en": "UnZ-Cure"
   },
@@ -21,7 +28,14 @@
   },
   "author": {
     "name": "Edwin Delsman",
-    "email": "edwin.delsman+homey@gmail.com"
+    "email": "edwin.delsman+unz-cure.app@gmail.com"
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "edwindelsman"
+      }
+    }
   },
   "drivers": [
     {
