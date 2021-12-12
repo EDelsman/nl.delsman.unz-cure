@@ -8,8 +8,7 @@
   ],
   "images": {
     "small": "/drivers/unz-cure/assets/images/small.png",
-    "large": "/drivers/unz-cure/assets/images/large.png",
-    "xlarge": "/drivers/unz-cure/assets/images/xlarge.png"
+    "large": "/drivers/unz-cure/assets/images/large.png"
   },
   "zwave": {
     "manufacturerId": 1357,

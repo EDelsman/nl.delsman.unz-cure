@@ -1,8 +1,9 @@
 {
   "id": "nl.delsman.unz-cure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": ">=5.0.0",
   "sdk": 3,
+  "brandColor": "#850085",
   "name": {
     "en": "UnZ-Cure"
   },
