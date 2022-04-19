@@ -1,5 +1,11 @@
 {
+  "1.0.2": {
+    "en": "Tested against Homey firmware 7.4.0 and node.js 16"
+  },
   "1.0.1": {
     "en": "Updated icons and images"
+  },
+  "1.0.0": {
+    "en": "Initial version"
   }
 }
